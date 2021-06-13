@@ -1,1 +1,10 @@
+# Style
 theme: jekyll-theme-hacker
+# Markdown
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
