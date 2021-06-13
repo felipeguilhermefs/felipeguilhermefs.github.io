@@ -1,5 +1,3 @@
-# Style
-theme: jekyll-theme-hacker
 # Markdown
 plugins:
   - jekyll-relative-links
@@ -8,3 +6,9 @@ relative_links:
   collections: true
 include:
   - README.md
+
+# Theme
+theme: jekyll-theme-hacker
+title: Felipe Flores
+description: Software Engineer
+show_downloads: false
