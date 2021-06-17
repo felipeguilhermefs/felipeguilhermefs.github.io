@@ -10,7 +10,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python)
 - 🔧
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis)
-  ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
+  ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=1ca0f1)
   ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat-square&logo=apache-kafka)
 - 🌐
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazonaws)
