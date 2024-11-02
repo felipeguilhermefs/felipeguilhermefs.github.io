@@ -17,6 +17,7 @@
 
 ## 💻 Some of my Work:
 [![Github](https://img.shields.io/badge/Github-grey?style=flat-square&logo=github)](https://github.com/felipeguilhermefs/)
+[![Medium](https://img.shields.io/badge/Medium-grey?style=flat-square&logo=medium)](https://medium.com/@ffdev)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000?style=flat-square&logo=hackerrank)](https://hackerrank.com/fguilhermefs)
 
 ## 🤝🏻 Connect with Me:
