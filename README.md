@@ -7,6 +7,7 @@
 - ![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=Java)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat-square&logo=go)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat-square&logo=lua)
+  ![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat-square&logo=javascript)
 - ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat-square&logo=redis)
   ![Postgres](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql&logoColor=1ca0f1)
   ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat-square&logo=apache-kafka)
@@ -18,7 +19,8 @@
 ## 💻 Some of my Work:
 [![Github](https://img.shields.io/badge/Github-grey?style=flat-square&logo=github)](https://github.com/felipeguilhermefs/)
 [![Medium](https://img.shields.io/badge/Medium-grey?style=flat-square&logo=medium)](https://medium.com/@ffdev)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000?style=flat-square&logo=hackerrank)](https://hackerrank.com/fguilhermefs)
+[![HackerRank](https://img.shields.io/badge/HackerRank-grey?style=flat-square&logo=hackerrank)](https://hackerrank.com/fguilhermefs)
+[![Resume](https://img.shields.io/badge/Resume-grey?style=flat-square&logo=read-the-docs)](/assets/resume.pdf)
 
 ## 🤝🏻 Connect with Me:
 
